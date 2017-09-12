@@ -8,8 +8,9 @@
 <p align="center"><img src="https://1.bp.blogspot.com/-4trF7D74rSs/WJNNUGcWW6I/AAAAAAAAFqA/7cacR7q3RtYZoL6RNna65yNTBhVJf3ktQCLcB/s1600/unnamed.png" align="center" width="50%"></p>
 
 Hasil Analisa Dari Trailer Game
-<p align="center"><iframe src="https://www.youtube.com/embed/lXaGPCSqlsM" ?rel=”0” align="center" width="50%"></p>
-
+<div style="text-align: center;">
+<object width="500" height="281" data="//www.youtube.com/embed/lXaGPCSqlsM"></object>
+</div>
 
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
