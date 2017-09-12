@@ -9,13 +9,13 @@
 
 Hasil Analisa Dari Trailer Game
 
-<p align="center">https://www.youtube.com/embed/lXaGPCSqlsM
-</p>
-
+<video controls>
+      <source src="contohvideo.mp4" type="video/mp4">
+    </video>
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
 
 A. Dari Segi Grafisnya
-    Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari track balap bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang mirip dengan aslinya, 
+    <p align="justify">Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari track balap bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang mirip dengan aslinya,</p>
 </body>
 </html>
