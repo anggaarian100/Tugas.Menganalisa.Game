@@ -10,7 +10,7 @@
 Hasil Analisa Dari Trailer Game
 
 <video controls>
-      <source src="contohvideo.mp4" type="video/mp4">
+      <source src="https://www.youtube.com/embed/lXaGPCSqlsM" type="video/mp4">
     </video>
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
