@@ -11,9 +11,10 @@
 
 <p align="center"><a href="https://www.youtube.com/embed/lXaGPCSqlsM">Trailer Asphalt Nitro</a></p>
 
-Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
+<p align="justify">Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:</p>
 
 <p align="justify">A. Dari Segi Grafisnya</p>
 <p align="justify">Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari tampilan track balap yang bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang hampir real, pergerakan mobil yang halus dan menarik.</p>
+
 </body>
 </html>
