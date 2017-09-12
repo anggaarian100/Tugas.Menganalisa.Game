@@ -1,7 +1,7 @@
 <html>
 <body>
 <p align="left">Angga Arian</p> 
-<p align="left">3145143622</p> 
+<p align="left">3145143622</p>
 <p align="left">Ilmu Komputer 2014</p>           
 <p align="center">Asphalt Nitro Review</p>
 <p align="center">DOWNLOAD FAST, DRIVE FASTER!</p>
@@ -10,7 +10,7 @@
 Hasil Analisa Dari Trailer Game
 
 <video controls>
-      <source src="https://www.youtube.com/embed/lXaGPCSqlsM" type="video/mp4">
+      <source src="videoasphalt.mp4" type="video/mp4">
     </video>
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
