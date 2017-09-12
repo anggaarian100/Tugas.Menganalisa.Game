@@ -9,8 +9,8 @@
 
 Hasil Analisa Dari Trailer Game
 
-https://www.youtube.com/embed/lXaGPCSqlsM
-
+<p align="center">https://www.youtube.com/embed/lXaGPCSqlsM
+</p>
 
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
