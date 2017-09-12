@@ -24,6 +24,6 @@
 <p align="justify">D. Dari Segi Kapasitas</p>
 <p align="justify">Dilihat dari Trailer diatas, Kapasitas yang digunakan di game ini hanya sekitar 25 MB. Jauh lebih sedikit dari saingannya yaitu Asphalt 8 dengan sekitar 48.71 MB.</p>
 <p align="justify">E. Dari Banyak Kendaraan</p>
-<p align="justify">Dilihat dari Trailer diatas, Kendaraan yang ada di Trailer cukup banyak dan berkelas, mulai dari Lamborghini Veneno, Bugatti Veyron 16.4 Grand Sport Visette, RUF CTR 3, Koenigsegg One:1, bahkan dalam info di Google Play Store akan dimunculkan mobil baru bernama 9FF GTR 9 dan Mclaren F1.</p>
+<p align="justify">Dilihat dari Trailer diatas, Kendaraan yang ada di Trailer cukup banyak dan berkelas, mulai dari Lamborghini Veneno, Bugatti Veyron 16.4 Grand Sport Vitesse, RUF CTR 3, Koenigsegg One:1, bahkan dalam info di Google Play Store akan dimunculkan mobil baru bernama 9FF GT9-R dan Mclaren F1.</p>
 </body>
 </html>
