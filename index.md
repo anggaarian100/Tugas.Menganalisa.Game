@@ -15,7 +15,7 @@
 
 <p align="justify">Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dan menarik dari game ini ada dari beberapa segi, yaitu sebagai berikut:</p>
 
-<p align="justify">A. Dari Segi Grafisnya</p>
+<p align="justify">A. Dari Segi Grafis</p>
 <p align="justify">Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari tampilan track balap yang bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang hampir real, pergerakan mobil yang halus dan menarik.</p>
 <p align="justify">B. Dari Segi Gameplay</p>
 <p align="justify">Gameplay yang dilihat dari trailer tadi cukup banyak, mulai dari story line yang banyak yang terdiri dari beberapa mode yaitu mode Classic (Balapan bersama mobil-mobil musuh), Catch (Berperan sebagai Polisi untuk menangkap musuh), Knockdown (Menabrak musuh sebanyak-banyaknya), dan mode-mode lainnya yang tak kalah menarik. Kemudian juga dari tipenya mulai dari Career (Menyelesaikan misi), Multiplayers (Bermain bersama orang-orang dari seluruh dunia denganmenggunakan internet), dan Events (Mencapai leaderboard untuk mendapatkan hadiah yang telah ditentukan sistem dengan melawan orang-orang dari seluruh dunia).</p>
