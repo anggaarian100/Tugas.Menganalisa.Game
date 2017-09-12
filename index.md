@@ -13,7 +13,7 @@
 
 Dari hasil analisa yang dilihat di Trailer Youtube, yang mambuat terkesan dari game ini ada dari beberapa segi, yaitu sebagai berikut:
 
-A. Dari Segi Grafisnya
-<p align="justify">Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari track balap bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang mirip dengan aslinya,</p>
+<p align="justify">A. Dari Segi Grafisnya</p>
+<p align="justify">Grafis yang ditampilkan tidak kalah menarik dengan saingannya yaitu Asphalt 8, mulai dari tampilan track balap yang bagus, pemandangan di sekitar track yang bersih, dari bentuk mobil-mobil yang hampir real, pergerakan mobil yang halus dan menarik.</p>
 </body>
 </html>
